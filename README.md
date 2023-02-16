@@ -1,5 +1,5 @@
 ## Intro
-Just a simple practice repo for learning Python connections to PostgreSQL.
+Just a simple practice repo for learning Python connections to PostgreSQL and practicing PostgreSQL.
 
 ## Learnings:
 - Install PostgreSQL on Windows Subsystem for Linux (WSL)
